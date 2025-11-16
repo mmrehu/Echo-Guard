@@ -86,6 +86,4 @@ This project was built to demonstrate our ability to design a functional, visual
 * Fully automated threat detection engine
 * AI-assisted monitoring and analysis
 
----
 
-If you'd like to expand this README, add screenshots, or generate documentation files (PDF, DOCX, etc.), just let me know!
