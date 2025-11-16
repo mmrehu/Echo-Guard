@@ -38,8 +38,8 @@ This project was developed as part of our hackathon submission. It is a web-base
 ## Folder Structure
 
 ```
-hackathon-project/
-│
+
+
 ├── app.php
 ├── common.js
 ├── dashboard.php
